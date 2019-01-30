@@ -15,6 +15,8 @@
         Lees goed de foutmeldingen als je die krijgt, vaak is het een typfout, of heb je de syntax van de code niet helemaal goed.<br />
         Ook hoofdletter en kleine letters maken uit.
     </p>
+
+    <a href="{{ route('laravel-links') }}">Klik hier om naar Laravel-Links te gaan.</a>
 @endsection
 
 @section('sidebar')
